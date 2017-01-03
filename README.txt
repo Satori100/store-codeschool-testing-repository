@@ -1,3 +1,4 @@
 readme file by Jane
 modifications
-the cake is a lie
+The cake is not a lie
+jane added changes
